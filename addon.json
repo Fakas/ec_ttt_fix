@@ -1,0 +1,6 @@
+{
+    "title": "Enhanced Camera TTT Fix",
+    "type": "gamemode",
+    "tags": ["fun", "realism"],
+    "ignore": [".git", ".git/*", "*.git", ".gitignore", "LICENSE", ".idea", ".idea/*", "*.idea", "workshop_id.txt"]
+}
